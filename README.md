@@ -27,7 +27,7 @@
 ---
 
 ### 🔥 Streak Stats
-![Streak](https://github-readme-streak-stats.herokuapp.com/?user=YOUR_USERNAME&theme=tokyonight)
+![Streak](https://github-readme-streak-stats.herokuapp.com/?user=sahil167-cmd&theme=tokyonight)
 
 ---
 
