@@ -1,16 +1,42 @@
-## Hi there 👋
+<h1 align="center">Hi 👋, I'm Sahil</h1>
+<h3 align="center">Cybersecurity Enthusiast | Love Building & Breaking Systems | JS | Developer</h3>
 
-<!--
-**sahil167-cmd/sahil167-cmd** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+---
 
-Here are some ideas to get you started:
+### 👨‍💻 About Me
+- 🎓 Engineering Student
+- 🔐 Interested in Cybersecurity & SOC 
+- 🤖 Exploring AI/ML
+- 💻 Love building real-world projects
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+---
+
+### 🚀 Skills
+- Programming: C, C++, Java, Python
+- Web: HTML, CSS, JavaScript, PHP
+- Tools: Git, VS Code, Linux , Nmap , Wireshark , Splunk
+- Databases: MySQL, MongoDB
+
+---
+
+### 📊 GitHub Stats
+![Stats](https://github-readme-stats.vercel.app/api?username=sahil167-cmd&show_icons=true&theme=tokyonight)
+
+![Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=sahil167-cmd&layout=compact&theme=tokyonight)
+
+---
+
+### 🔥 Streak Stats
+![Streak](https://github-readme-streak-stats.herokuapp.com/?user=YOUR_USERNAME&theme=tokyonight)
+
+---
+
+### 🛠 Tech Stack
+<p>
+<img src="https://skillicons.dev/icons?i=python,java,js,html,css,php,mysql,mongodb,git,linux,vscode" />
+</p>
+
+---
+
+### 🌐 Connect With Me
+-  Github Portfolio: https://github.com/sahil167-cmd/sahil167-cmd
