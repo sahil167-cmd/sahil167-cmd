@@ -39,4 +39,5 @@
 
 
 ### 🌐 Connect With Me
--  Github Portfolio: https://github.com/sahil167-cmd/sahil167-cmd
+-  LinkedIn : https://www.linkedin.com/in/sahil-borhade-42353b266
+-  Github : https://github.com/sahil167-cmd/sahil167-cmd
