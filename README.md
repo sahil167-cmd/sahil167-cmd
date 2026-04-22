@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Sahil</h1>
-<h3 align="center">Cybersecurity Enthusiast | Love Building & Breaking Systems | JS | Developer</h3>
+<h3 align="center">Cybersecurity Enthusiast | Love Building & Breaking Systems | JS | Developer | Full Stack Developer</h3>
 
 ---
 
@@ -8,6 +8,7 @@
 - 🔐 Interested in Cybersecurity & SOC 
 - 🤖 Exploring AI/ML
 - 💻 Love building real-world projects
+- 
 
 ---
 
