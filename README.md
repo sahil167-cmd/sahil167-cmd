@@ -13,10 +13,11 @@
 ---
 
 ### 🚀 Skills
-- Programming: C, C++, Java, Python
-- Web: HTML, CSS, JavaScript, PHP
+- Programming: C, C++, Java, Python 
+- Web: HTML, CSS, JavaScript, PHP , node js , express js 
 - Tools: Git, VS Code, Linux , Nmap , Wireshark , Splunk
 - Databases: MySQL, MongoDB
+- System Design
 
 ---
 
