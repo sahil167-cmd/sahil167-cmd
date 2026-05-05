@@ -9,12 +9,13 @@
 - 🤖 Exploring AI/ML
 - 💻 Love building real-world projects
 - Love to build and break systems Like an "Ethical Hacker"
+- More interested in SIEM tools & SOC
 
 ---
 
 ### 🚀 Skills
 - Programming: C, C++, Java, Python 
-- Web: HTML, CSS, JavaScript, PHP , node js , express js 
+- Web: HTML, CSS, JavaScript, PHP , node js , express js
 - Tools: Git, VS Code, Linux , Nmap , Wireshark , Splunk
 - Databases: MySQL, MongoDB
 - System Design
