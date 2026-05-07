@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Sahil Borhade </h1>
-<h3 align="center">Cybersecurity Enthusiast | Love Building & Breaking Systems | JS | Developer | Full Stack Developer</h3>
+<h3 align="center">Cybersecurity Enthusiast | Love Building & Breaking Systems | JS | Full Stack Developer | SOC & SIEMS</h3>
 
 ---
 
