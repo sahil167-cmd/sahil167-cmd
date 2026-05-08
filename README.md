@@ -40,7 +40,7 @@
 <p>
 <img src="https://skillicons.dev/icons?i=python,java,js,html,css,php,mysql,mongodb,git,linux,vscode" />
 </p>
-
+---
 
 
 ### 🌐 Connect With Me
