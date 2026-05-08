@@ -25,6 +25,7 @@
 
 ### 📊 GitHub Stats
 [Stats](https://github-readme-stats.vercel.app/api?username=sahil167-cmd&show_icons=true&theme=tokyonight)
+---
 
 [Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=sahil167-cmd&layout=compact&theme=tokyonight)
 
