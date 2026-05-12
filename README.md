@@ -7,7 +7,7 @@
 - 🎓 Engineering Student
 - 🔐 Interested in Cybersecurity & SOC 
 - 🤖 Exploring AI/ML
-- 💻 Love building real-world projects
+- 💻 Love building real-world projects 
 - Love to build and break systems Like an "Ethical Hacker"
 - More interested in SIEM tools & SOC
 
